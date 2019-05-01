@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Opinando</string>
+    <string name="item_list_edit">Editar</string>
+    <string name="item_list_delete">Deletar</string>
+    <string name="menu_list_reviews_label">Menu</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_item">Novo Item</string>
+    <string name="list_item">Listar Itens</string>
+    <string name="delete_confirmation">Deletar</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="night_mode">Modo Noturno</string>
+    <string name="summary_night_mode">No modo noturno as cores do aplicativo ficam escuras</string>
+    <string name="settings">Configurações</string>
+    <string name="form_review">Descrição</string>
+    <string name="upload">Enviar Opinião</string>
+</resources>
